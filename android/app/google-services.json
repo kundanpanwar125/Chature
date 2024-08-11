@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112179950806",
+    "project_id": "chature-ab54e",
+    "storage_bucket": "chature-ab54e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112179950806:android:78a9b6b3b2c516790e8577",
+        "android_client_info": {
+          "package_name": "com.example.chature"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrL8YK9w9NgOsTnCHx58B_5oY_BRgFCwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112179950806:android:a617e7572a34ff670e8577",
+        "android_client_info": {
+          "package_name": "com.example.chature_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrL8YK9w9NgOsTnCHx58B_5oY_BRgFCwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
